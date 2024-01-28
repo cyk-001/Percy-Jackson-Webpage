@@ -1,0 +1,127 @@
+body{
+	background-color: orange;
+}
+
+.container{
+	background-color: black;
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.header{
+	background-color: orange;
+	line-height: 80px;
+	padding: 20px;
+}
+.chb{
+	display: block;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.wtc{
+	display: block;
+	width: 500px;
+	margin-top: 80px;
+	margin-left: 50px;
+}
+.guide{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.yourguide{
+	display: block;
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mrd{
+	display: block;
+	width: 300px;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mrdtag{
+	display: block;
+	width: 260px;
+	margin-top: 20px;
+	margin-left: 150px;
+}
+.tag{
+	display: block;
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 150px;
+}
+.mrb{
+	display: block;
+	width: 300px;
+	margin-top: 60px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mrbtag{
+	display: block;
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 150px;
+}
+.tag2{
+	display: block;
+	width: 250px;
+	margin-top: 20px;
+	margin-left: 150px;
+	margin-bottom: 50px;
+}
+.footer{
+	background-color: orange;
+}
+.footer{
+	text-align: center;
+	padding: 20px;
+}
+.logo{
+	display: block;
+	width: 120px;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul li{
+	list-style: none;
+	display: inline-block;
+	float: right;
+}
+ul li a{
+	display: block;
+	text-decoration: none;
+	color: #cca53f;
+	font-family: fantasy;
+	padding-left: 20px;
+	padding-right: 50px;
+}
+ul li a:hover{
+	color: orange; 
+}
+.gallery{
+	display: block;
+	width: 350px;
+	margin-top: 80px;
+	margin-left: 50px;
+}
+.first{
+	display: block;
+	width: 500px;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.second{
+	display: block;
+	width: 400px;
+	margin-top: 40px;
+	margin-bottom: 80px;
+	margin-right: auto;
+	margin-left: auto;
+}
